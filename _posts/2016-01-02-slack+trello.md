@@ -4,7 +4,7 @@ title: "Slack + Trello: An amazing combination"
 date: 2016-01-07
 author: Ramit Surana
 tags: communication messaging devops
-category: messaging social network
+category: [messaging, social network]
 excerpt: "Communication and management done effectively."
 ---
 

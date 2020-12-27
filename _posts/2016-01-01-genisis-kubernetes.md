@@ -3,8 +3,8 @@ layout: post
 title: "The genisis of Kubernetes"
 date: 2016-01-01
 author: Ramit Surana
-tags: docker, orchestration, automation, devops, kubernetes
-category: orchestration docker google etcd coreos
+tags: docker orchestration automation devops kubernetes
+category: [orchestration, docker, google, etcd, coreos]
 excerpt: "A brief study on Kubernetes and its components"
 ---
 

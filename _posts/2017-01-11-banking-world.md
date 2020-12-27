@@ -3,7 +3,7 @@ layout: post
 title: "Using P2P networking for digital banking transactions"
 date: 2017-01-11
 author: Ramit Surana
-tags: P2P Networking BlockChain Bitcoin Dapps OpenBazar
+category: [P2P, Networking, BlockChain, Bitcoin, Dapps, OpenBazar]
 excerpt: "Building modern day digital transaction systems"
 ---
 

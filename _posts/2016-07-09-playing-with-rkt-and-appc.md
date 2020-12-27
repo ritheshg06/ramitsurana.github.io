@@ -4,7 +4,7 @@ title: "Playing with rkt and appc"
 date: 2016-07-09
 author: Ramit Surana
 tags: [rkt aci docker]
-category: coreos rkt containers
+category: [coreos, rkt, containers]
 description: "Exploring the rkt container ecosystem"
 comments: true
 ---

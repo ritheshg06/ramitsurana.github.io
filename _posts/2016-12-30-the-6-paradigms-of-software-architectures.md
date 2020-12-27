@@ -4,7 +4,7 @@ title: "The 6 paradigms of software architectures"
 date: 2016-12-30
 author: Ramit Surana
 tags: software architecture serverless microservices
-category: software architectures
+category: [software architectures]
 excerpt: "Exploring different types of enterprise class software architectures"
 comments: true
 ---

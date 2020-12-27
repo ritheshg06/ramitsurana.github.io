@@ -4,7 +4,7 @@ title: "Containers in Production"
 date: 2017-08-24
 author: Ramit Surana
 tags: containers tips openshift
-category: Introduction
+category: [openshift]
 excerpt: "Containers usage tips and tricks."
 ---
 
