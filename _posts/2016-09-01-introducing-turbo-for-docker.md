@@ -5,7 +5,7 @@ date: 2016-09-01
 author: Ramit Surana
 tags: docker cloud containers
 category: [docker, containers]
-description: "New project for the new era"
+excerpt: "Creating Turbo for use with Docker"
 comments: true
 ---
 
