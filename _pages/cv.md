@@ -18,7 +18,7 @@ Education
 * Bachelor of Technology (B.Tech)
   * The 4-year degree program started in April 2013
   * Completed B.Tech in Electronics and Communication field from B.K. Birla Institute of Engineering and Technology.
-  * Published Paper on “Deploying a Cognitive Solution using IBM Watson on Bluemix” International Research Journal of Engineering and Technology (IRJET) \\ Volume: 04 Issue: 04 April 2017.
+  * Published Paper on “Deploying a Cognitive Solution using IBM Watson on Bluemix” International Research Journal of Engineering and Technology (IRJET) (Volume: 04 Issue: 04 April 2017).
 
 Work experience
 ======
@@ -53,18 +53,18 @@ Skills
 
 Certifications
 ======
-* AWS Solutions Architect - Associate \\ Certification Number: F3FSGJ11JF4QQCW1
+* AWS Solutions Architect - Associate (Certification Number: F3FSGJ11JF4QQCW1)
 * Hashicorp Certified: Terraform Associate
-* Cloudbees Jenkins - Fundamentals \\ Certification Number: ewqd26sqh4no
-* Cloudbees Jenkins Pipeline - Fundamentals \\ Certification Number: f39rtrxby28x
-* DeepLearning.AI TensorFlow Developer Certificate (4 Courses) \\ Certification Number: PDMVV3JC3DCM 
-* DeepLearning.AI Generative Adversarial Networks Specialization (GANs) \\ Certification Number: PDMVV3JC3DCM 
-* Data Engineering with Google Cloud Professional Certificate \\ Certification Number: YNPQ5TVEH86X
+* Cloudbees Jenkins - Fundamentals (Certification Number: ewqd26sqh4no)
+* Cloudbees Jenkins Pipeline - Fundamentals (Certification Number: f39rtrxby28x)
+* DeepLearning.AI TensorFlow Developer Certificate (4 Courses) (Certification Number: PDMVV3JC3DCM )
+* DeepLearning.AI Generative Adversarial Networks Specialization (GANs) (Certification Number: PDMVV3JC3DCM )
+* Data Engineering with Google Cloud Professional Certificate (Certification Number: YNPQ5TVEH86X)
 
 Projects
 =====
 
-* American Heart Association PMP Portal​/ American Heart Association
+* American Heart Association PMP Portal​/American Heart Association
   * Technologies/Tools - ​EMR, AWS Lambda, Python, S3, HIPAA, Jenkins, Step Functions, Docker
   * The project involved provisioning a real-time portal for medical researchers across the globe. We provide curated medical data for analysis and AWS grants for research.
   * Part of my role is to maintain and improvise the efforts towards provisioning EMR Clusters, GPU Single Node Instances, and backend infrastructure with Data Science Tools such as Jupyter Hub, Jupyter Lab, and RStudio.
@@ -82,11 +82,13 @@ Projects
   * For Teradata automating, infrastructure was a challenge. Using AWS we provided automation using Kubernetes and ansible on bare metal provisioned clusters.
   * I created and automated using Jenkins regarding workflows using Pipelines & Jobs for deploying infrastructure and managing other components.
 
-* Building Continuous Delivery with Kubernetes /​Personal Technologies/Tools - ​Kubernetes, Jenkins, Fabric8
+* Building Continuous Delivery with Kubernetes /​Personal 
+  * Technologies/Tools - ​Kubernetes, Jenkins, Fabric8
   * The project started with an aim to build different models using which continuous delivery can be possible with google's orchestration engine called Kubernetes.
   * I integrated the Jenkins plugin using which it could be made possible and demonstrated a use case of a better framework model called fabric8 for achieving a similar goal. The post is available on ​the blog.​
 
-* Consul Tutorial​ ​/​Tutorials Point Technologies/Tools -​Consul
+* Consul Tutorial​ ​/​Tutorials Point 
+  * Technologies/Tools -​ Consul
   * The aim of the project is to provide the viewers of the client with an illustrative, well-defined theory & example based tutorial on the topic for its viewers worldwide.
   * The tutorial covered 9 different chapters with various subcategories, starting from the basics to the advanced usage of consul.
   * As the author, I have described & explained each of the different components of Consul, architecture, working, and its usage in the cloud industry. The project is live ​here
