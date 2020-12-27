@@ -9,11 +9,6 @@ excerpt: "Building modern day digital transaction systems"
 
 Today's the internet is almost everything.But making things fast,secure and for banks, the perfect term would be micro-payments.Doing this type of payments requires a completely new transformation for the banks.This gives the open space for a new term called as FinTech or Financial Technology.We will be discussing more and more such terms in the below post.So hope you guys enjoy it !
 
-% \f is defined as #1f(#2) using the macro
-\f\relax{x} = \int_{-\infty}^\infty
-    \f\hat\xi\,e^{2 \pi i \xi x}
-    \,d\xi
-
 ## Introduction
 
 Today everthing is on the internet.We all are going through a completely new era of transformation.With major countries such as India pushing efforts towards a cashless economy,it has become important for the banks to develop new methods and techniques for helping large quantity of customers go cashless easily.
