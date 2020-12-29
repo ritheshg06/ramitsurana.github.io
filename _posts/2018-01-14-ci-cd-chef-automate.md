@@ -3,8 +3,8 @@ layout: post
 title: "Automating your CI/CD with Chef Automate & Habitat - Part 1"
 date: 2018-01-14
 author: Ramit Surana
-category: Chef CI/CD Jenkins Habitat Automate
-tags: [Jenkins, Continous Delivery, Continous Integration, Syntax, Chef, Habitat, Automate]
+tags: Chef CI/CD Jenkins Habitat Automate
+category: [Jenkins, Continous Delivery, Continous Integration, Syntax, Chef, Habitat, Automate]
 excerpt: "Using Chef Tools to automate your CI/CD Journey"
 ---
 
